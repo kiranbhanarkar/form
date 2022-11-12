@@ -1,0 +1,19 @@
+*{
+    margin: 20px auto;
+    
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+
+.button{
+    margin: 20px auto;
+    text-align: left;
+}
+
+.signup{
+    left:40%;
+    color: white;
+    font-size: 2.5em;
+}
+
